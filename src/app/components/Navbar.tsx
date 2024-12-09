@@ -2,7 +2,6 @@ import { RiArrowDropDownLine} from "react-icons/ri";
 import { CiSearch, CiHeart } from "react-icons/ci";
 import { IoCartOutline } from "react-icons/io5";
 import { MdPersonOutline } from "react-icons/md";
-import Logo from "@/App/Pictures/Logo.png";
 import Link from "next/link";
 
 function Navbar() {

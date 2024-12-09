@@ -1,4 +1,4 @@
-// components/ProductComparison.js
+
 import React from 'react';
 
 const ProductComparison = () => {
