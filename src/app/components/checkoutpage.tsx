@@ -13,7 +13,7 @@ const Checkout = () => {
         paymentMethod: 'creditCard',
     });
 
-    const handleChange = (e: { target: { name: any; value: any; }; }) => {
+    const handleChange = (e: { target: { name: string; value: string; }; }) => {
         const { name, value } = e.target;
         setFormData({ ...formData, [name]: value });
     };

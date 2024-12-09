@@ -1,5 +1,5 @@
 
-export default function () {
+export default function slides () {
   return (
     
       <div className="flex justify-center items-center gap-5 p-10 w-[100%] h-[85%] bg-[#FCF8F3]">
