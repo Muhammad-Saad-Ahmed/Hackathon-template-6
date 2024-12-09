@@ -1,4 +1,4 @@
-import { STATIC_STATUS_PAGE_GET_INITIAL_PROPS_ERROR } from "next/dist/lib/constants"
+
 import { FaFacebook, FaLinkedin,FaTwitter} from "react-icons/fa";
 
 import SmallStars from "./star"
